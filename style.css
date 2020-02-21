@@ -1,0 +1,120 @@
+body{
+    font-family: 'Heebo', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+}
+#name{
+    color: rgb(248, 94, 119);
+    font-size: 50px;
+}
+#hello{
+    font-size: 30px;
+}
+section{
+    height: 550px;
+padding-bottom: 500px;}
+ 
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+    
+}
+.intro-image{
+    width: 100%;
+    height: 100%;
+}
+.top-part{
+    background-image: url(header-bg.png);
+    background-repeat: no-repeat;
+    height: 500px;
+    
+}
+.link-button{
+    text-decoration: none;
+    color: white;
+    background-color:rgb(248, 94, 119);
+    border-radius: 10px;
+    padding: 10px 40px;}
+.Biography{
+    background-image: url(biography-bg.png);
+    background-repeat: no-repeat;
+    height: 500px;}
+#third-heading{
+    text-align: center;
+    position: relative;
+    top: 300px;
+    font-size: 50px;
+    
+}
+.main-box{
+    display: grid;
+    grid-row: 5remgap;
+    grid-template-columns: repeat(3,1fr); 
+    background-image: url(latest-work-bg.png);
+    background-repeat: no-repeat;}
+    
+.main-box img{
+    width: 100%;
+    padding-top: 350px;}
+#client{
+    text-align: center;
+    font-size: 50px;
+    padding-bottom: 80px;
+    position: relative;
+    top: 400px;
+}    
+#client-name{
+    text-align: center;
+}
+#abb{
+    color: purple;
+}
+#message{
+    text-align: center;
+    font-weight: 600;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+#contract{
+    text-align: center;
+    font-weight: 800;
+    color: white;
+    background-color: rgb(248, 94, 119);
+    padding-top: 100px;
+    box-shadow: 10px 10px 40px rgb(248, 94, 119);
+    border-radius: 10px;
+    height: 30%;
+    margin-left: 400px;
+    margin-right: 400px;}
+#lm{
+    font-weight: 800;
+    position: relative;
+    bottom: 45px;
+}    
+#mail{
+    position: relative;
+    bottom: 50px;
+}
+.last-part{
+    background-image: url(footer-bg.png);
+    background-repeat: no-repeat;
+    height: 500px;
+    padding-top: 400px;}
+#foot{ text-align: center;
+padding-bottom: 20px;}    
+    
+
+
+    
+  
+
+
+
+    
+
+   
+    
+    
